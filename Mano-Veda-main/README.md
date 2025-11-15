@@ -76,7 +76,5 @@ Infrastructure:
 🧠 *Developed by -*
 1) Anwesa Banerjee (banerjee.anwesa05@gmail.com)
 2) Mousoom Samanta (mousoomsamanta07@gmail.com)
-3) Titli Dutta (titlidutta2k20@gmail.com)
-4) Dipanjan Basak (dipanjanbasak9980@gmail.com)
 
 **©2025 Mano Veda | Catch the signs, Care in time.**
