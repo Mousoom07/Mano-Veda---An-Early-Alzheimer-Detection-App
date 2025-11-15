@@ -74,7 +74,7 @@ Infrastructure:
 
 
 🧠 *Developed by -*
-<img width="1904" height="920" alt="Screenshot 2025-10-05 191331" src="https://github.com/user-attachments/assets/41e5fc2d-4f13-4367-8519-d98f53ad7f51" />
+![WhatsApp Image 2024-07-16 at 03 07 42_d76b2c35](https://github.com/user-attachments/assets/7f26463f-1562-43a3-9be5-799606985dca)
 
 1) Anwesa Banerjee (banerjee.anwesa05@gmail.com)
 2) Mousoom Samanta (mousoomsamanta07@gmail.com)
