@@ -4,7 +4,7 @@
 
 **Front Page of Mano Veda**
 
-<img width="886" height="669" alt="Screenshot 2025-10-17 221233" src="https://github.com/user-attachments/assets/45f7a9f2-ba9f-4b68-8c73-79a7235df100" />
+<img width="579" height="535" alt="Screenshot 2025-10-05 191928" src="https://github.com/user-attachments/assets/578fe478-2fb9-434d-ab88-f5e0e9ca6fd1" />
 
 **Voice Analysis Page**
 
@@ -12,7 +12,7 @@
 
 **Doctor Consultant Page**
 
-<img width="66" height="61" alt="Screenshot 2025-10-06 004652" src="https://github.com/user-attachments/assets/9a679159-d51f-4465-a466-7266c6cca40a" />
+<img width="1904" height="920" alt="Screenshot 2025-10-05 191331" src="https://github.com/user-attachments/assets/311d0328-9d32-4339-8e74-48a307959cee" />
 
 **Assessment Page**
 
