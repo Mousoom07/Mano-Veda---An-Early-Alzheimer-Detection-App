@@ -71,6 +71,9 @@ Infrastructure:
 
 🎥 Watch Demo Video: Click Here (**https://youtu.be/ILr6ZaDCRH4?si=YBlBv9GaKquN33FE**)
 
+**PPT:**
+
+**https://drive.google.com/file/d/1kWeQ8Jg4WdnTdb5FP2yG9vFoo0Dc1psV/view?usp=sharing**
 
 
 🧠 *Developed by -*
